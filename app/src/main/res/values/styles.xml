@@ -1,0 +1,11 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <item name="colorPrimary">#FF9800</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#FF9800</item>
+        <!-- colorButtonNormal will only work on phones running API 22 and above. So if you have an older phone,
+        the buttons will not be colored orange -->
+    </style>
+</resources>
